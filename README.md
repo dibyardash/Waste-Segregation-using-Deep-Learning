@@ -55,25 +55,5 @@ Flask
 Streamlit
 
 # Project Structure
-<img width="767" height="332" alt="image" src="https://github.com/user-attachments/assets/613848c5-5ba3-45f8-91df-0818a791d542" />
+<img width="966" height="346" alt="image" src="https://github.com/user-attachments/assets/66a6c243-b1f6-408a-aa08-b0cc65fae911" />
 
-ortfolio-Analysis-and-Optimization/
-│
-├── config/
-│   └── config.yaml                   # Tickers, benchmark, time horizon
-│
-├── src/
-│   ├── data_ingestion.py             # Data fetching & cleaning pipeline
-│   └── portfolio_core.py             # Portfolio analytics & optimization
-│
-├── notebooks/
-│   └── Portfolio_Analysis&Optimization.ipynb
-│                                     # Main analysis notebook
-│
-├── reports/
-│   └── project_report/               # Term Project Report in IEEE research paper format.
-│
-├── requirements.txt                  # Python dependencies
-├── README.md                         # Project documentation
-├── LICENSE                           # MIT License
-└── .gitignore
