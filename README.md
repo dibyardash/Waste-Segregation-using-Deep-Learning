@@ -55,18 +55,4 @@ Flask
 Streamlit
 
 # Project Structure
-AI-Garbage-Classification/
-│
-│
-├── src/
-│   ├── train_model.py              # Model training pipeline
-│   ├── app.py                      # Flask API for prediction
-│   └── dashboard.py                # Streamlit dashboard
-│
-├── reports/
-│   └── project_report/             # Academic report (PDF/LaTeX)
-│
-├── requirements.txt               # Dependencies
-├── README.md                      # Documentation
-├── LICENSE                        # MIT License
-└── .gitignore
+<img width="767" height="332" alt="image" src="https://github.com/user-attachments/assets/613848c5-5ba3-45f8-91df-0818a791d542" />
