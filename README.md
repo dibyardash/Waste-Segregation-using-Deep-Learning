@@ -44,7 +44,7 @@ This project develops an AI-powered system to classify waste into categories. Us
   
 - Smart recycling advice
  
-#Tech Stack
+# Tech Stack
 - Python
   
 - TensorFlow / Keras
@@ -59,7 +59,7 @@ This project develops an AI-powered system to classify waste into categories. Us
 
 - Matplotlib
  
-#How It Works
+# How It Works
 1. Upload an image of waste
    
 2. Model processes and predicts category
